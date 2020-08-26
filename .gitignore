@@ -1,0 +1,7 @@
+# General
+node_modules
+*.ini
+
+# Linter & Configuration
+.eslintrc.json
+package.json
